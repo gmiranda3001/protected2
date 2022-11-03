@@ -1,0 +1,7 @@
+{
+  "name": "potected",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
